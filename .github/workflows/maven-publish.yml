@@ -22,4 +22,4 @@ jobs:
       run: mvn package
     
     - name: Uruchom program
-      run: java -jar AtiperaTask/out/artifacts/Task_jar/Task.jar
+      run: java -jar target/Task.jar
