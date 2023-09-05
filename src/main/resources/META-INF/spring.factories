@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.Task.TaskApplication,\
+com.example.Task.GithubTaskController,\
+com.example.Task.GithubApiClient
